@@ -1,6 +1,6 @@
 # HAI811I_Projet_Mobile
 
-Projet de programmetion mobile réalisé par EVan COMBOT et Ibrahim HARCHA.
+Projet de programmetion mobile réalisé par Evan COMBOT et Ibrahim HARCHA.
 
 Objectif du projet : Réaliser une application mobile permettant la visualisation de shader provanant du site Shadertoy.
 
